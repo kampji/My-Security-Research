@@ -17,7 +17,9 @@ I specialize in internal, external, web application, mobile application, and wir
 This repository is for formally tracking my security research. Thanks for reading.
 
 
-## Connect
+## Stay Connected
 https://www.linkedin.com/in/jkamperides/ 
 
-https://medium.com/@j.kamperides
+https://medium.com/@jillkamperides
+
+https://kampji.github.io/
